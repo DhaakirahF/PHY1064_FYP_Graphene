@@ -2,11 +2,17 @@
 Contains scripts used for project
 
 NM_combined_plot - Loads data to make NM plot 
+
 NMpipeline - Script to run configs for NM ,provided by supervisor minor edits
+
 Mpipeline  - Scrpit to run Mag configs ,provided by supervisor minor edits
+
 Calculationavrg - loads data from Mpipline outputs to make average graphs 
+
 model_mlene - provided by supervisor
+
 func - provided by supervisor 
+
 graphen_rgf worked example - proided by supervisor minor edits made 
 
 
