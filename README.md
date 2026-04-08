@@ -15,7 +15,8 @@ func - provided by supervisor
 
 graphen_rgf worked example - proided by supervisor minor edits made 
 
-
+Folder of data generated from scripts to big to add ,availbe on request.
+Parameters included in report .
 
 pretrained model 
 https://github.com/ml-ene/ml-ene/tree/main/bestmodel
